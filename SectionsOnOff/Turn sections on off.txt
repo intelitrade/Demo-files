@@ -1,0 +1,1 @@
+Turn sections on off for the entire document
